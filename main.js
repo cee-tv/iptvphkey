@@ -1,7 +1,7 @@
 const directLinks = [
-  { url: "https://www.profitableratecpm.com/ruanfw02gs?key=bf4fca7f3029881a89da417781fe3ddb", label: "Direct Link 1" },
-  { url: "https://www.profitableratecpm.com/z3xzct3zrf?key=4fccd0cd87c1c6cfea3a5a777d6a0242", label: "Direct Link 2" },
-  { url: "https://www.profitableratecpm.com/u63pxyqi7p?key=7fcb2dc4112c48fbfccf4bac095c138f", label: "Direct Link 3" }
+  { url: "https://shrtq.com/Vb28pse/79592035", label: "Direct Link 1" },
+  { url: "https://cutpu.com/IImsCgT/79592035", label: "Direct Link 2" },
+  { url: "https://recutt.com/ZL85On0/79592035", label: "Direct Link 3" }
 ];
 
 let linkStep = 0;
