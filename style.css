@@ -1,0 +1,48 @@
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  background: linear-gradient(135deg, #e0e7ff 0%, #f5f7fa 100%);
+  min-height: 100vh;
+}
+.main-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.13);
+  border-radius: 1rem;
+  border: none;
+}
+.key-value {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1.3rem;
+  word-break: break-all;
+  color: #22223b;
+  background: #e9ecef;
+  border-radius: 6px;
+  padding: 0.8em 1em;
+  margin: 0.2em 0;
+  display: inline-block;
+}
+.spinner-border {
+  width: 2rem;
+  height: 2rem;
+}
+.footer {
+  margin-top: 3rem;
+  color: #868686;
+  font-size: 0.97rem;
+  text-align: center;
+}
+.btn-link-step {
+  min-width: 180px;
+  margin-bottom: 0.7rem;
+  font-size: 1.12rem;
+}
+.countdown-badge {
+  font-size: 0.98em;
+  margin-left: 0.5em;
+  vertical-align: middle;
+}
