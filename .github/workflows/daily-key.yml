@@ -1,4 +1,6 @@
-name: Generate Daily Key
+permissions:
+  contents: write
+  name: Generate Daily Key
 
 on:
   schedule:
